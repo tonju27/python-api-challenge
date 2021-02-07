@@ -1,4 +1,5 @@
 # ignore config.py
+api_keys.py
 config.py
 
 # Byte-compiled / optimized / DLL files
